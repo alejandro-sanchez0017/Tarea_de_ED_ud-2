@@ -1,4 +1,5 @@
 Propietario: alejandro-sanchez0017
+
 Alejandro Sánchez Nogales - 29(veintinueve)
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
