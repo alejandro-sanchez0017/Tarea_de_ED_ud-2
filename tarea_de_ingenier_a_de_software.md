@@ -1,4 +1,5 @@
-Propietario: Alejandro Sánchez Nogales
+Propietario: alejandro-sanchez0017
+Alejandro Sánchez Nogales - 29(veintinueve)
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 **Objetivo:** Aplicar los conceptos vistos en clase sobre Ingeniería de Software, modelos de desarrollo, fases y requisitos, mediante la selección y planteamiento de una aplicación realista.
