@@ -1,3 +1,4 @@
+Propietario: Alejandro Sánchez Nogales
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 **Objetivo:** Aplicar los conceptos vistos en clase sobre Ingeniería de Software, modelos de desarrollo, fases y requisitos, mediante la selección y planteamiento de una aplicación realista.
@@ -24,3 +25,5 @@
 * **Requisitos funcionales:** Definir al menos 5 (qué debe hacer la aplicación).
 * **Requisitos no funcionales:** Definir al menos 5 (rendimiento, seguridad, usabilidad, etc.).
 * **Justificación:** Explica por qué cada uno es importante, referenciando algo de lo visto en clase (por ejemplo: *“usabilidad es clave porque el usuario será novato”*, *“seguridad importante por los datos personales”*).
+
+* Tarea modúlo 2 Entorno de desarrollo.
